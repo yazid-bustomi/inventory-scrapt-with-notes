@@ -1,5 +1,5 @@
 {
-    'name': 'OM Inventory Scrap',
+    'name': 'Inventory Scrap Notes',
     'version': '1.0',
     'summary': 'Add field Important Note in Inventory Scrap',
     'description': '''

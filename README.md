@@ -1,6 +1,6 @@
 <div align="center">
   
-# OM Inventory Scrap Note Integration
+# Inventory Scrap Note Integration
 
 **Odoo Module to add an "Important Note" field in Inventory Scrap and automatically sync it with Accounting Journal Entries.**
 
@@ -41,14 +41,14 @@ Ensure the following modules are installed in your Odoo database before installi
 ## 🚀 Installation
 
 1. Clone or download this repository.
-2. Place the `om_inventory_scrap_it` (or `inventory_scrap`) folder into your Odoo `addons` directory.
+2. Place the `inventory_scrapt_notes` folder into your Odoo `addons` directory.
 3. Restart your Odoo server service.
 4. Log in to Odoo as an Administrator.
 5. Activate **Developer Mode** (Settings > Activate the developer mode).
 6. Go to the **Apps** menu.
 7. Click on **Update Apps List** and confirm.
 8. Remove the default "Apps" filter in the search bar.
-9. Search for `OM Inventory Scrap`.
+9. Search for `Inventory Scrap`.
 10. Click **Install**.
 
 ## 💻 Usage
