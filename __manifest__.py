@@ -15,7 +15,7 @@
     'author': 'A Yazid Bustomi',
     'website': 'https://www.bustomi.my.id/',
     'license': 'LGPL-3',
-    'depends': [ 'stock_account', 'account', 'om_inventory_receipts_it'],
+    'depends': [ 'stock_account', 'account'],
     "data": [
         "views/stock_scrap_form_views.xml",
     ],
