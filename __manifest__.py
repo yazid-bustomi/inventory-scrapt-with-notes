@@ -13,7 +13,7 @@
         3. Exposes the "Important Notes" field on the Stock Scrap form view.
     ''',
     'author': 'A Yazid Bustomi',
-    'website': 'https://www.bustomi.my.id/',
+    'website': 'https://www.yazid-bustomi.my.id/',
     'license': 'LGPL-3',
     'depends': [ 'stock_account', 'account'],
     "data": [

@@ -1,0 +1,5 @@
+# Raw screenshots may contain company data; only blurred copies in
+# static/description/screenshots/ are committed.
+Screenshot*.png
+__pycache__/
+*.pyc
